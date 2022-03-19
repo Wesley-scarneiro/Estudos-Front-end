@@ -10,11 +10,7 @@ body {
     padding: 30px;
 }
 
-.titulo-principal{
-    padding-left: 20px;
-}
-
-.titulo-centralizado{
+h1 {
     text-align: center;
 }
 
@@ -30,6 +26,9 @@ em strong {
     color: #FF0000;
 }
 
+h2 {
+    text-align: center;
+}
 .itens {
     font-style: italic;
 }
